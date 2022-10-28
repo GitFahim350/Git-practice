@@ -1,6 +1,6 @@
-h1{
-    color: red;
-    border: bottom;
-    background-color: aqua;
-    border-radius: 20px;
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    border: 2px solid red; 
 }
